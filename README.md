@@ -13,6 +13,8 @@ $ wine regedit
 
 $ winetricks
 
+$ env WINEPREFIX=~/.wine64 WINEARCH=win64
+
 run explorer nautilus and nemo , thunar folder check enter :z
 
 ~/.wine/dosdevices/z:
