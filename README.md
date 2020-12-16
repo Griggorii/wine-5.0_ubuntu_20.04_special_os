@@ -13,7 +13,7 @@ $ wine regedit
 
 $ winetricks
 
-run explorer folder check enter :z
+run explorer nautilus and nemo , thunar folder check enter :z
 
 ~/.wine/dosdevices/z:
 
