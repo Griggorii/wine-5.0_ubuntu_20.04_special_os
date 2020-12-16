@@ -13,7 +13,7 @@ $ wine regedit
 
 $ winetricks
 
-run explorer check enter :z
+run explorer folder check enter :z
 
 ~/.wine/dosdevices/z:
 
