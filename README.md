@@ -3,7 +3,7 @@ wine-5.0 , ubuntu 20.04
 
 special os https://github.com/Griggorii/Linux_OS20.04_V4_X64_By_Griggorii.iso_ubuntu_focal_fossa-linux-image-kernel-5.9.3
 
-Download wine https://github.com/Griggorii/wine-5.0_ubuntu_20.04_special_os/releases/download/wine-5.0/wine.tar.xz
+Download wine-5.0 https://github.com/Griggorii/wine-5.0_ubuntu_20.04_special_os/releases/download/wine-5.0/wine.tar.xz
 
 install 
 
