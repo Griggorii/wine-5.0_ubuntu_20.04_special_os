@@ -1,6 +1,8 @@
 # wine-5.0_ubuntu_20.04_special_os
 wine-5.0 , ubuntu 20.04
 
+Download wine https://github.com/Griggorii/wine-5.0_ubuntu_20.04_special_os/releases/download/wine-5.0/wine.tar.xz
+
 install 
 
 $ sudo tar xvpf wine.tar.xz -C /
