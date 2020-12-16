@@ -11,7 +11,7 @@ $ sudo tar xvpf wine.tar.xz -C /
 
 special os x32  check notepad
 
-$ sudo rm -rf /usr/share/doc/libc6/NEWS.gz /usr/share/doc/libc6/changelog.Debian.gz && sudo apt --reinstall install libc6:i386 libcrypt1:i386 libfreetype6:i386 libgcc-s1:i386 libidn2-0:i386 libpng16-16:i386 libunistring2:i386 zlib1g:i386 lib32z1 lib32z1-dev zlib1g zlib1g-dev libc6:i386 libidn2-0:i386 libunistring2:i386 -y
+$ sudo rm -rf /usr/share/doc/libc6/NEWS.gz /usr/share/doc/libc6/changelog.Debian.gz && sudo apt update && sudo apt --reinstall install libc6:i386 libcrypt1:i386 libfreetype6:i386 libgcc-s1:i386 libidn2-0:i386 libpng16-16:i386 libunistring2:i386 zlib1g:i386 lib32z1 lib32z1-dev zlib1g zlib1g-dev libc6:i386 libidn2-0:i386 libunistring2:i386 -y
 
 $ sudo apt --reinstall install libfreetype6:i386 libxext6:i386 -y
 
