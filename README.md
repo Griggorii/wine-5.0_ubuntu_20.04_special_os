@@ -31,6 +31,8 @@ $ wine64-stable notepad
 
 $ winefile-stable
 
+$ winemaker-stable
+
 $ winetricks
 
 $ env WINEPREFIX=~/.wine WINEARCH=win64
