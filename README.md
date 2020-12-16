@@ -15,7 +15,7 @@ $ winetricks
 
 run explorer check enter :z
 
-/home/griggorii/.wine/dosdevices/z:
+~/.wine/dosdevices/z:
 
 uninstall
 
