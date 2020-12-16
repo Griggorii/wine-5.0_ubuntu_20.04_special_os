@@ -23,6 +23,10 @@ $ wine regedit
 
 x64 check notepad
 
+$ wine notepad
+
+and alternative command
+
 $ wine64-stable notepad
 
 $ winetricks
