@@ -11,6 +11,8 @@ check
 
 $ wine regedit
 
+$ wine64-stable notepad
+
 $ winetricks
 
 $ env WINEPREFIX=~/.wine WINEARCH=win64
