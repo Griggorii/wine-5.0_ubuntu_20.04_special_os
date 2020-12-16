@@ -15,15 +15,15 @@ $ sudo rm -rf /usr/share/doc/libc6/NEWS.gz /usr/share/doc/libc6/changelog.Debian
 
 $ sudo apt --reinstall install libfreetype6:i386 libxext6:i386 -y
 
-Audio support install
-
-$ sudo rm -rf rm -rf /usr/share/doc/libfaudio0/changelog.Debian.gz /usr/share/doc/libfaudio0/copyright && sudo apt update && sudo apt --reinstall install i965-va-driver:i386 intel-media-va-driver:i386 libaom0:i386 libavcodec58:i386 libavutil56:i386 libblkid1:i386 libcairo-gobject2:i386 libcairo2:i386 libcodec2-0.9:i386 libdatrie1:i386 libdrm-intel1:i386 libdrm2:i386 libexpat1:i386 libfontconfig1:i386 libfribidi0:i386 libgdk-pixbuf2.0-0:i386 libglib2.0-0:i386 libgomp1:i386 libgraphite2-3:i386 libgsm1:i386 libharfbuzz0b:i386 libicu66:i386 libigdgmm11:i386 libjbig0:i386 libjpeg-turbo8:i386 libjpeg8:i386 libmount1:i386 libmp3lame0:i386 libnuma1:i386 libopenjp2-7:i386 libopus0:i386 libpango-1.0-0:i386 libpangocairo-1.0-0:i386 libpangoft2-1.0-0:i386 libpciaccess0:i386 libpcre2-8-0:i386 libpcre3:i386 libpixman-1-0:i386 librsvg2-2:i386 librsvg2-common:i386 libselinux1:i386 libshine3:i386 libsnappy1v5:i386 libsoxr0:i386 libspeex1:i386 libstb0:i386 libstdc++6:i386 libswresample3:i386 libthai0:i386 libtheora0:i386 libtiff5:i386 libtwolame0:i386 libuuid1:i386 libva-drm2:i386 libva-x11-2:i386 libva2:i386 libvdpau1:i386 libvpx6:i386 libwavpack1:i386 libwebp6:i386 libwebpmux3:i386 libx264-155:i386 libx265-179:i386 libxcb-render0:i386 libxcb-shm0:i386 libxml2:i386 libxvidcore4:i386 libzstd1:i386 libzvbi0:i386 ocl-icd-libopencl1:i386 libfaudio0:i386 libgdk-pixbuf2.0-0 libgdk-pixbuf2.0-common
-
 $ wine-stable notepad
 
 check
 
 $ wine regedit
+
+Audio support install
+
+$ sudo rm -rf rm -rf /usr/share/doc/libfaudio0/changelog.Debian.gz /usr/share/doc/libfaudio0/copyright && sudo apt update && sudo apt --reinstall install i965-va-driver:i386 intel-media-va-driver:i386 libaom0:i386 libavcodec58:i386 libavutil56:i386 libblkid1:i386 libcairo-gobject2:i386 libcairo2:i386 libcodec2-0.9:i386 libdatrie1:i386 libdrm-intel1:i386 libdrm2:i386 libexpat1:i386 libfontconfig1:i386 libfribidi0:i386 libgdk-pixbuf2.0-0:i386 libglib2.0-0:i386 libgomp1:i386 libgraphite2-3:i386 libgsm1:i386 libharfbuzz0b:i386 libicu66:i386 libigdgmm11:i386 libjbig0:i386 libjpeg-turbo8:i386 libjpeg8:i386 libmount1:i386 libmp3lame0:i386 libnuma1:i386 libopenjp2-7:i386 libopus0:i386 libpango-1.0-0:i386 libpangocairo-1.0-0:i386 libpangoft2-1.0-0:i386 libpciaccess0:i386 libpcre2-8-0:i386 libpcre3:i386 libpixman-1-0:i386 librsvg2-2:i386 librsvg2-common:i386 libselinux1:i386 libshine3:i386 libsnappy1v5:i386 libsoxr0:i386 libspeex1:i386 libstb0:i386 libstdc++6:i386 libswresample3:i386 libthai0:i386 libtheora0:i386 libtiff5:i386 libtwolame0:i386 libuuid1:i386 libva-drm2:i386 libva-x11-2:i386 libva2:i386 libvdpau1:i386 libvpx6:i386 libwavpack1:i386 libwebp6:i386 libwebpmux3:i386 libx264-155:i386 libx265-179:i386 libxcb-render0:i386 libxcb-shm0:i386 libxml2:i386 libxvidcore4:i386 libzstd1:i386 libzvbi0:i386 ocl-icd-libopencl1:i386 libfaudio0:i386 libgdk-pixbuf2.0-0 libgdk-pixbuf2.0-common
 
 x64 check notepad
 
