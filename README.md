@@ -3,7 +3,13 @@ wine-5.0 , ubuntu 20.04
 
 special os https://github.com/Griggorii/Linux_OS20.04_V4_X64_By_Griggorii.iso_ubuntu_focal_fossa-linux-image-kernel-5.9.3
 
-special os x32
+Download wine https://github.com/Griggorii/wine-5.0_ubuntu_20.04_special_os/releases/download/wine-5.0/wine.tar.xz
+
+install 
+
+$ sudo tar xvpf wine.tar.xz -C /
+
+special os x32  check notepad
 
 $ sudo rm -rf /usr/share/doc/libc6/NEWS.gz /usr/share/doc/libc6/changelog.Debian.gz && sudo apt --reinstall install libc6:i386 libcrypt1:i386 libfreetype6:i386 libgcc-s1:i386 libidn2-0:i386 libpng16-16:i386 libunistring2:i386 zlib1g:i386 lib32z1 lib32z1-dev zlib1g zlib1g-dev libc6:i386 libidn2-0:i386 libunistring2:i386 -y
 
@@ -11,15 +17,11 @@ $ sudo apt --reinstall install libfreetype6:i386 libxext6:i386 -y
 
 $ wine-stable notepad
 
-Download wine https://github.com/Griggorii/wine-5.0_ubuntu_20.04_special_os/releases/download/wine-5.0/wine.tar.xz
-
-install 
-
-$ sudo tar xvpf wine.tar.xz -C /
-
 check
 
 $ wine regedit
+
+x64 check notepad
 
 $ wine64-stable notepad
 
